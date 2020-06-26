@@ -36,6 +36,23 @@ nav li {
   padding: 30px;
 }
 
+#landmark h1 {
+  margin: 30px;
+  font-size: 25px;
+  float: right;
+  display: inline;
+}
+
+#main h3 {
+  margin: 30px;
+  font-size: 30px;
+}
+
+#main p {
+  margin: 30px;
+  width: 1000px
+}
+
 footer {
   color: white;
   padding: 30px;
