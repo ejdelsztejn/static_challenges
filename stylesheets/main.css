@@ -30,3 +30,14 @@ nav {
   padding: 30px;
   background-color: darkslategray;
 }
+
+nav li {
+  display: inline;
+  padding: 30px;
+}
+
+footer {
+  color: white;
+  padding: 30px;
+  background-color: darkslategray
+}
