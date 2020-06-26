@@ -12,14 +12,21 @@ header h1 {
   float: left;
   font-size: 30px;
   font-weight: bold;
-  padding: 30px;
+  padding: 25px;
   display: inline-block;;
 }
 
 header a {
   float: right;
   font-size: 15px;
-  padding: 30px;
+  padding: 25px;
   text-decoration-line: underline;
   display: inline-block;
+}
+
+nav {
+  text-align: right;
+  color: white;
+  padding: 30px;
+  background-color: darkslategray;
 }
