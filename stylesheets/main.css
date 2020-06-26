@@ -1,4 +1,25 @@
-h1 {
-   background-color: red;
-   color: white;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: firebrick;
+  height: 70px;
+  color: white;
+}
+
+header h1 {
+  float: left;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 30px;
+  display: inline-block;;
+}
+
+header a {
+  float: right;
+  font-size: 15px;
+  padding: 30px;
+  text-decoration-line: underline;
+  display: inline-block;
 }
